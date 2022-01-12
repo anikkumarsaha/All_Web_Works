@@ -1,0 +1,27 @@
+/*TAG SELECTOR*/
+h1 {
+  color: red;
+  font-size: 20px;
+}
+
+img:hover {
+  background-color: purple;
+}
+
+/*CLASS SELECTOR*/
+.Bacon {
+  background-color: red;
+}
+
+.Broccoli {
+  background-color: green;
+}
+
+.Circular {
+  border-radius: 100%;
+}
+
+/*ID SELECTOR*/
+#P1 {
+  color: blue;
+}
